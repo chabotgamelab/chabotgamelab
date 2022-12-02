@@ -1,4 +1,4 @@
-- 👋 Hi, This is Chabot Game Lab @chabotgamelab
+- 👋 Hi, This is Chabot Game Lab
 - Prof. Jared Gochuico, P.E.
 
 
