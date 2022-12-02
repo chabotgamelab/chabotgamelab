@@ -7,8 +7,7 @@
 
 https://www.pico-8-edu.com/
 
-![alt text](https://github.com/chabotgamelab/main/my_game.p8.png?raw=true)
-
+![alt text here](https://raw.githubusercontent.com/chabotgamelab/chabotgamelab/main/my_game.p8.png)
 
 
 
