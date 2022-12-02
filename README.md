@@ -3,11 +3,11 @@
 
 
 # Raza Day! 12.2.22
-## Make your own 8-bit game:
+# Make your own 8-bit game:
 
 https://www.pico-8-edu.com/
 
-
+![alt text](https://github.com/chabotgamelab/main/my_game.p8.png?raw=true)
 
 
 
