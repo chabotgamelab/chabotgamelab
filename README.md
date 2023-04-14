@@ -2,13 +2,14 @@
 - Prof. Jared Gochuico, P.E.
 
 
-# Raza Day! 12.2.22
-## Make your own 8-bit game:
+# Welcome East Avenue Elementary School! STEM DAY 4-14-2023
 
-### 1. 
+## Make your own 8-bit game:
+## Instructions
+### 1. Open this
 https://www.pico-8-edu.com/
 
-### 2. 
+### 2. Load this
 Game Cartridge for tutorial: 
 
 ![alt text here](https://raw.githubusercontent.com/chabotgamelab/chabotgamelab/main/my_game.p8.png)
