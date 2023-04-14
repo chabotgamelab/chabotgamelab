@@ -2,10 +2,16 @@
 - Prof. Jared Gochuico, P.E.
 
 
-# Welcome East Avenue Elementary School! STEM DAY 4-14-2023
+# Make your own 8-bit game:
 
-## Make your own 8-bit game:
-## Instructions
+## Welcome East Avenue Elementary School! STEM DAY 4-14-2023
+
+
+
+
+Google slides: https://docs.google.com/presentation/d/1NDbfg4fcoAU2QiQUxcADd1sVs-G9PHPRrJjwtzsW7dE/edit?usp=sharing
+
+
 ### 1. Open this
 https://www.pico-8-edu.com/
 
