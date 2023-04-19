@@ -4,7 +4,7 @@
 
 # Make your own 8-bit game:
 
-## Welcome East Avenue Elementary School! STEM DAY 4-14-2023
+
 
 
 
